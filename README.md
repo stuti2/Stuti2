@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@_.ss221._-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/_.ss221._/)](https://www.instagram.com/_.ss221._/)
 
 
-<img align="right" width="500" height="200" src="Stuti Singh.gif">
+<img align="right" src="Stuti Singh.gif">
 
 ## About me
 - 👩‍💻 Programmer
