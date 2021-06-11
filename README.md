@@ -31,7 +31,7 @@
 ### Tech Stack
 
 <p>
-<img height="35" src="https://raw.githubusercontent.com/nikita1610/nikita1610/master/images/c%2B%2B.png">&nbsp
+<img height="35" src="assets/cpp_logo.png">&nbsp
 <img height="35" src="https://raw.githubusercontent.com/nikita1610/nikita1610/master/images/python.png">&nbsp
 <img height="35" src="https://raw.githubusercontent.com/nikita1610/nikita1610/master/images/html.png">&nbsp
 <img height="35" src="https://raw.githubusercontent.com/nikita1610/nikita1610/master/images/css.png">&nbsp
