@@ -30,11 +30,13 @@
  
 ### Tech Stack
 
+
 <p>
 <img height="35" src="assets/cpp_logo.png">&nbsp
 <img height="35" src="https://raw.githubusercontent.com/nikita1610/nikita1610/master/images/python.png">&nbsp
 <img height="35" src="https://raw.githubusercontent.com/nikita1610/nikita1610/master/images/html.png">&nbsp
 <img height="35" src="https://raw.githubusercontent.com/nikita1610/nikita1610/master/images/css.png">&nbsp
+<img height="35" src="http://3con14.biz/code/_data/js/intro/js-logo.png">&nbsp
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">&nbsp&nbsp
 <img height="35" src="https://raw.githubusercontent.com/nikita1610/nikita1610/master/images/matplotlib.jpg">&nbsp&nbsp
 <img height="35" src="https://raw.githubusercontent.com/nikita1610/nikita1610/master/images/pandas.png">&nbsp&nbsp
