@@ -10,7 +10,7 @@
 ## About me
 - 👩‍💻 Programmer
 - 🔭 I'm currently member of Quanta JSSATEN
-- 🌱 I'm currently learning JS
+- 🌱 I'm currently learning MERN stack
 - 📫 How to reach me: [Send a mail](stuti1102.r@gmail.com)
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love playing chess in free time. 
