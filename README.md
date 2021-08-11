@@ -5,12 +5,12 @@
 [![Instagram Badge](https://img.shields.io/badge/-@_.ss221._-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/_.ss221._/)](https://www.instagram.com/_.ss221._/)
 
 
-<img align="right" src="Stuti Singh.gif">
+<img align="right" src="https://user-images.githubusercontent.com/60356387/129105658-67c576a7-7dd1-4451-82ed-c9e1acd8ab39.gif">
 
 ## About me
 - 👩‍💻 Programmer
 - 🔭 I'm currently member of Quanta JSSATEN
-- 🌱 I'm currently learning MERN stack
+- 🌱 I'm currently learning React
 - 📫 How to reach me: [Send a mail](stuti1102.r@gmail.com)
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love playing chess in free time. 
