@@ -9,8 +9,7 @@
 
 ## About me
 - 👩‍💻 Programmer
-- 🔭 I'm currently member of Quanta JSSATEN
-<!-- - 🌱 I'm currently learning React -->
+- 🔭 I'm currently member of Quanta JSSATEN<!-- - 🌱 I'm currently learning React -->
 - 📫 How to reach me: [Send a mail](stuti1102.r@gmail.com)
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love playing chess in free time. 
